@@ -1,0 +1,310 @@
+[19:56:56:822 @53 pool-2-thread-1: Parsing dataset/reviews/Emeryville/review10323.json
+[19:56:56:822 @77 main: Created a worker for dataset/reviews/Emeryville/review10323.json
+[19:56:56:822 @77 main: Created a worker for dataset/reviews/Emeryville/review547988.json
+[19:56:56:822 @53 pool-2-thread-2: Parsing dataset/reviews/Emeryville/review547988.json
+[19:56:56:822 @77 main: Created a worker for dataset/reviews/Emeryville/review17280.json
+[19:56:56:822 @53 pool-2-thread-3: Parsing dataset/reviews/Emeryville/review17280.json
+[19:56:56:823 @77 main: Created a worker for dataset/reviews/Emeryville/review15674041.json
+[19:56:56:823 @53 pool-2-thread-4: Parsing dataset/reviews/Emeryville/review15674041.json
+[19:56:56:824 @77 main: Created a worker for dataset/reviews/SF/review919198.json
+[19:56:56:824 @53 pool-2-thread-5: Parsing dataset/reviews/SF/review919198.json
+[19:56:56:824 @77 main: Created a worker for dataset/reviews/SF/review912982.json
+[19:56:56:824 @53 pool-2-thread-6: Parsing dataset/reviews/SF/review912982.json
+[19:56:56:824 @77 main: Created a worker for dataset/reviews/SF/review4432027.json
+[19:56:56:824 @53 pool-2-thread-7: Parsing dataset/reviews/SF/review4432027.json
+[19:56:56:824 @53 pool-2-thread-8: Parsing dataset/reviews/SF/review662368.json
+[19:56:56:824 @77 main: Created a worker for dataset/reviews/SF/review662368.json
+[19:56:56:825 @77 main: Created a worker for dataset/reviews/SF/review1606984.json
+[19:56:56:825 @53 pool-2-thread-9: Parsing dataset/reviews/SF/review1606984.json
+[19:56:56:825 @77 main: Created a worker for dataset/reviews/SF/review533579.json
+[19:56:56:825 @53 pool-2-thread-10: Parsing dataset/reviews/SF/review533579.json
+[19:56:56:825 @77 main: Created a worker for dataset/reviews/SF/review1321986.json
+[19:56:56:825 @77 main: Created a worker for dataset/reviews/SF/review50993.json
+[19:56:56:825 @53 pool-2-thread-4: Parsing dataset/reviews/SF/review1321986.json
+[19:56:56:825 @53 pool-2-thread-7: Parsing dataset/reviews/SF/review50993.json
+[19:56:56:826 @77 main: Created a worker for dataset/reviews/SF/review5830.json
+[19:56:56:826 @53 pool-2-thread-10: Parsing dataset/reviews/SF/review5830.json
+[19:56:56:826 @77 main: Created a worker for dataset/reviews/SF/review20701.json
+[19:56:56:826 @77 main: Created a worker for dataset/reviews/SF/review910225.json
+[19:56:56:826 @77 main: Created a worker for dataset/reviews/SF/review2336.json
+[19:56:56:826 @77 main: Created a worker for dataset/reviews/SF/review22510.json
+[19:56:56:826 @77 main: Created a worker for dataset/reviews/SF/review26945.json
+[19:56:56:826 @77 main: Created a worker for dataset/reviews/SF/review11509.json
+[19:56:56:826 @77 main: Created a worker for dataset/reviews/SF/FinancialDistrict/review4302.json
+[19:56:56:827 @77 main: Created a worker for dataset/reviews/SF/review8090040.json
+[19:56:56:827 @77 main: Created a worker for dataset/reviews/SF/review23383.json
+[19:56:56:827 @77 main: Created a worker for dataset/reviews/SF/review51116.json
+[19:56:56:827 @77 main: Created a worker for dataset/reviews/SF/review1145267.json
+[19:56:56:827 @77 main: Created a worker for dataset/reviews/SF/review7713.json
+[19:56:56:827 @77 main: Created a worker for dataset/reviews/SF/review918527.json
+[19:56:56:828 @77 main: Created a worker for dataset/reviews/SF/review6505.json
+[19:56:56:828 @77 main: Created a worker for dataset/reviews/SF/review904482.json
+[19:56:56:828 @77 main: Created a worker for dataset/reviews/SF/review18437.json
+[19:56:56:828 @77 main: Created a worker for dataset/reviews/SF/review881699.json
+[19:56:56:828 @77 main: Created a worker for dataset/reviews/SF/review12539.json
+[19:56:56:829 @77 main: Created a worker for dataset/reviews/SF/review12493.json
+[19:56:56:829 @77 main: Created a worker for dataset/reviews/SF/review1515923.json
+[19:56:56:829 @77 main: Created a worker for dataset/reviews/SF/review522505.json
+[19:56:56:829 @77 main: Created a worker for dataset/reviews/SF/review18200.json
+[19:56:56:829 @77 main: Created a worker for dataset/reviews/SF/review876315.json
+[19:56:56:829 @77 main: Created a worker for dataset/reviews/SF/review693658.json
+[19:56:56:829 @77 main: Created a worker for dataset/reviews/SF/review287665.json
+[19:56:56:829 @77 main: Created a worker for dataset/reviews/SF/review6666.json
+[19:56:56:830 @77 main: Created a worker for dataset/reviews/SF/review7262522.json
+[19:56:56:830 @77 main: Created a worker for dataset/reviews/SF/review790530.json
+[19:56:56:830 @77 main: Created a worker for dataset/reviews/SF/review25860.json
+[19:56:56:830 @77 main: Created a worker for dataset/reviews/SF/review42336.json
+[19:56:56:830 @77 main: Created a worker for dataset/reviews/SF/review890830.json
+[19:56:56:830 @77 main: Created a worker for dataset/reviews/SF/review7942.json
+[19:56:56:830 @77 main: Created a worker for dataset/reviews/SF/review21073.json
+[19:56:56:830 @77 main: Created a worker for dataset/reviews/SF/review6271901.json
+[19:56:56:830 @77 main: Created a worker for dataset/reviews/SF/review5338.json
+[19:56:56:830 @77 main: Created a worker for dataset/reviews/SF/review897225.json
+[19:56:56:830 @77 main: Created a worker for dataset/reviews/SF/review41833.json
+[19:56:56:831 @77 main: Created a worker for dataset/reviews/SF/review789395.json
+[19:56:56:831 @77 main: Created a worker for dataset/reviews/SF/review1766605.json
+[19:56:56:831 @77 main: Created a worker for dataset/reviews/SF/review25271.json
+[19:56:56:831 @77 main: Created a worker for dataset/reviews/SF/review225819.json
+[19:56:56:831 @77 main: Created a worker for dataset/reviews/SF/review24620.json
+[19:56:56:831 @77 main: Created a worker for dataset/reviews/SF/review808403.json
+[19:56:56:831 @77 main: Created a worker for dataset/reviews/SF/review15254.json
+[19:56:56:831 @77 main: Created a worker for dataset/reviews/SF/review18962.json
+[19:56:56:831 @77 main: Created a worker for dataset/reviews/SF/review1588312.json
+[19:56:56:831 @77 main: Created a worker for dataset/reviews/SF/review8638.json
+[19:56:56:832 @77 main: Created a worker for dataset/reviews/SF/review6706717.json
+[19:56:56:832 @77 main: Created a worker for dataset/reviews/SF/review296720.json
+[19:56:56:832 @77 main: Created a worker for dataset/reviews/SF/review444672.json
+[19:56:56:832 @77 main: Created a worker for dataset/reviews/SF/review11523.json
+[19:56:56:832 @77 main: Created a worker for dataset/reviews/SF/review8647196.json
+[19:56:56:832 @77 main: Created a worker for dataset/reviews/SF/FishermansWharf/review476728.json
+[19:56:56:832 @77 main: Created a worker for dataset/reviews/SF/FishermansWharf/review22500.json
+[19:56:56:832 @77 main: Created a worker for dataset/reviews/SF/FishermansWharf/review1047.json
+[19:56:56:832 @77 main: Created a worker for dataset/reviews/SF/FishermansWharf/review20488.json
+[19:56:56:833 @77 main: Created a worker for dataset/reviews/SF/FishermansWharf/review24625.json
+[19:56:56:833 @77 main: Created a worker for dataset/reviews/SF/FishermansWharf/review578899.json
+[19:56:56:833 @77 main: Created a worker for dataset/reviews/SF/FishermansWharf/review422927.json
+[19:56:56:833 @77 main: Created a worker for dataset/reviews/SF/review791769.json
+[19:56:56:833 @77 main: Created a worker for dataset/reviews/SF/review891239.json
+[19:56:56:833 @77 main: Created a worker for dataset/reviews/SF/review5361249.json
+[19:56:56:833 @77 main: Created a worker for dataset/reviews/SF/review856888.json
+[19:56:56:833 @77 main: Created a worker for dataset/reviews/SF/review5875.json
+[19:56:56:833 @77 main: Created a worker for dataset/reviews/SF/review23406.json
+[19:56:56:833 @77 main: Created a worker for dataset/reviews/SF/review287112.json
+[19:56:56:833 @77 main: Created a worker for dataset/reviews/SF/review17616.json
+[19:56:56:833 @77 main: Created a worker for dataset/reviews/SF/review2406.json
+[19:56:56:833 @77 main: Created a worker for dataset/reviews/SF/review23774.json
+[19:56:56:833 @77 main: Created a worker for dataset/reviews/SF/review13950.json
+[19:56:56:834 @77 main: Created a worker for dataset/reviews/SF/review5984.json
+[19:56:56:834 @77 main: Created a worker for dataset/reviews/SF/review1146383.json
+[19:56:56:834 @77 main: Created a worker for dataset/reviews/SF/review14451.json
+[19:56:56:834 @77 main: Created a worker for dataset/reviews/SF/review27274.json
+[19:56:56:834 @77 main: Created a worker for dataset/reviews/SF/review438727.json
+[19:56:56:834 @77 main: Created a worker for dataset/reviews/SF/review283107.json
+[19:56:56:834 @77 main: Created a worker for dataset/reviews/SF/review19035.json
+[19:56:56:834 @77 main: Created a worker for dataset/reviews/SF/review5045.json
+[19:56:56:834 @77 main: Created a worker for dataset/reviews/SF/review26760.json
+[19:56:56:834 @77 main: Created a worker for dataset/reviews/SF/review16552.json
+[19:56:56:834 @77 main: Created a worker for dataset/reviews/SF/review22148.json
+[19:56:56:834 @77 main: Created a worker for dataset/reviews/SF/review9043627.json
+[19:56:56:834 @77 main: Created a worker for dataset/reviews/SF/review855749.json
+[19:56:56:835 @77 main: Created a worker for dataset/reviews/SF/review437098.json
+[19:56:56:835 @77 main: Created a worker for dataset/reviews/SF/review894295.json
+[19:56:56:835 @77 main: Created a worker for dataset/reviews/SF/review519729.json
+[19:56:56:835 @77 main: Created a worker for dataset/reviews/SF/review3308.json
+[19:56:56:835 @77 main: Created a worker for dataset/reviews/SF/review23581.json
+[19:56:56:835 @77 main: Created a worker for dataset/reviews/SF/review18320.json
+[19:56:56:835 @77 main: Created a worker for dataset/reviews/SF/review11793.json
+[19:56:56:835 @77 main: Created a worker for dataset/reviews/SF/review3552.json
+[19:56:56:835 @77 main: Created a worker for dataset/reviews/SF/review915510.json
+[19:56:56:835 @77 main: Created a worker for dataset/reviews/SF/review20191.json
+[19:56:56:836 @77 main: Created a worker for dataset/reviews/SF/UnionSq/review8737.json
+[19:56:56:836 @77 main: Created a worker for dataset/reviews/SF/UnionSq/review150946.json
+[19:56:56:836 @77 main: Created a worker for dataset/reviews/SF/UnionSq/review23395.json
+[19:56:56:836 @77 main: Created a worker for dataset/reviews/SF/UnionSq/review20547.json
+[19:56:56:836 @77 main: Created a worker for dataset/reviews/SF/UnionSq/review5883.json
+[19:56:56:836 @77 main: Created a worker for dataset/reviews/SF/UnionSq/review25622.json
+[19:56:56:836 @77 main: Created a worker for dataset/reviews/SF/UnionSq/review360.json
+[19:56:56:836 @77 main: Created a worker for dataset/reviews/SF/UnionSq/review24468.json
+[19:56:56:836 @77 main: Created a worker for dataset/reviews/SF/review40682.json
+[19:56:56:842 @77 main: Created a worker for dataset/reviews/SF/Hostels/review9491356.json
+[19:56:56:843 @77 main: Created a worker for dataset/reviews/SF/Hostels/review14772741.json
+[19:56:56:843 @77 main: Created a worker for dataset/reviews/SF/review2536795.json
+[19:56:56:843 @77 main: Created a worker for dataset/reviews/SF/review790579.json
+[19:56:56:843 @77 main: Created a worker for dataset/reviews/SF/review18204.json
+[19:56:56:843 @77 main: Created a worker for dataset/reviews/SF/review15135.json
+[19:56:56:843 @77 main: Created a worker for dataset/reviews/SF/review883306.json
+[19:56:56:843 @77 main: Created a worker for dataset/reviews/SF/review19842.json
+[19:56:56:843 @77 main: Created a worker for dataset/reviews/SF/review1110785.json
+[19:56:56:843 @77 main: Created a worker for dataset/reviews/SF/review57255.json
+[19:56:56:843 @77 main: Created a worker for dataset/reviews/SF/review7635.json
+[19:56:56:843 @77 main: Created a worker for dataset/reviews/SF/review24540.json
+[19:56:56:843 @77 main: Created a worker for dataset/reviews/SF/review564858.json
+[19:56:56:843 @77 main: Created a worker for dataset/reviews/SF/review5425.json
+[19:56:56:843 @77 main: Created a worker for dataset/reviews/SF/review1208461.json
+[19:56:56:843 @77 main: Created a worker for dataset/reviews/SF/review11771.json
+[19:56:56:844 @77 main: Created a worker for dataset/reviews/SF/SFOAirport/review12345.json
+[19:56:56:844 @77 main: Created a worker for dataset/reviews/SF/SFOAirport/review23838.json
+[19:56:56:844 @77 main: Created a worker for dataset/reviews/SF/SFOAirport/review40443.json
+[19:56:56:844 @77 main: Created a worker for dataset/reviews/SF/SFOAirport/review4705.json
+[19:56:56:844 @77 main: Created a worker for dataset/reviews/SF/SFOAirport/review524164.json
+[19:56:56:844 @77 main: Created a worker for dataset/reviews/SF/SFOAirport/review599536.json
+[19:56:56:844 @77 main: Created a worker for dataset/reviews/SF/SFOAirport/review1139289.json
+[19:56:56:844 @77 main: Created a worker for dataset/reviews/SF/SFOAirport/review4044.json
+[19:56:56:845 @77 main: Created a worker for dataset/reviews/SF/SFOAirport/review2981.json
+[19:56:56:845 @77 main: Created a worker for dataset/reviews/SF/SFOAirport/review26500.json
+[19:56:56:845 @77 main: Created a worker for dataset/reviews/SF/SFOAirport/review7655.json
+[19:56:56:845 @77 main: Created a worker for dataset/reviews/SF/SFOAirport/review16955.json
+[19:56:56:845 @77 main: Created a worker for dataset/reviews/SF/SFOAirport/review487.json
+[19:56:56:845 @77 main: Created a worker for dataset/reviews/SF/SFOAirport/review9329.json
+[19:56:56:845 @77 main: Created a worker for dataset/reviews/SF/SFOAirport/review28502.json
+[19:56:56:845 @77 main: Created a worker for dataset/reviews/SF/review455591.json
+[19:56:56:846 @77 main: Created a worker for dataset/reviews/SF/review14553.json
+[19:56:56:846 @77 main: Created a worker for dataset/reviews/SF/review118232.json
+[19:56:56:846 @77 main: Created a worker for dataset/reviews/SF/review28200.json
+[19:56:56:846 @77 main: Created a worker for dataset/reviews/SF/review5901.json
+[19:56:56:846 @77 main: Created a worker for dataset/reviews/SF/review15769.json
+[19:56:56:847 @77 main: Created a worker for dataset/reviews/SF/review897333.json
+[19:56:56:847 @77 main: Created a worker for dataset/reviews/SanCarlos/review200649.json
+[19:56:56:847 @77 main: Created a worker for dataset/reviews/SanCarlos/review14781.json
+[19:56:56:915 @53 pool-2-thread-9: Parsing dataset/reviews/SF/review20701.json
+[19:56:56:917 @53 pool-2-thread-4: Parsing dataset/reviews/SF/review910225.json
+[19:56:56:920 @53 pool-2-thread-1: Parsing dataset/reviews/SF/review2336.json
+[19:56:56:921 @53 pool-2-thread-7: Parsing dataset/reviews/SF/review22510.json
+[19:56:56:921 @53 pool-2-thread-8: Parsing dataset/reviews/SF/review26945.json
+[19:56:56:922 @53 pool-2-thread-5: Parsing dataset/reviews/SF/review11509.json
+[19:56:56:922 @53 pool-2-thread-6: Parsing dataset/reviews/SF/FinancialDistrict/review4302.json
+[19:56:56:923 @53 pool-2-thread-2: Parsing dataset/reviews/SF/review8090040.json
+[19:56:56:924 @53 pool-2-thread-2: Parsing dataset/reviews/SF/review23383.json
+[19:56:56:924 @53 pool-2-thread-10: Parsing dataset/reviews/SF/review51116.json
+[19:56:56:924 @53 pool-2-thread-3: Parsing dataset/reviews/SF/review1145267.json
+[19:56:56:973 @53 pool-2-thread-3: Parsing dataset/reviews/SF/review7713.json
+[19:56:56:974 @53 pool-2-thread-7: Parsing dataset/reviews/SF/review918527.json
+[19:56:56:975 @53 pool-2-thread-9: Parsing dataset/reviews/SF/review6505.json
+[19:56:56:975 @53 pool-2-thread-4: Parsing dataset/reviews/SF/review904482.json
+[19:56:56:975 @53 pool-2-thread-5: Parsing dataset/reviews/SF/review18437.json
+[19:56:56:976 @53 pool-2-thread-1: Parsing dataset/reviews/SF/review881699.json
+[19:56:56:976 @53 pool-2-thread-6: Parsing dataset/reviews/SF/review12539.json
+[19:56:56:976 @53 pool-2-thread-10: Parsing dataset/reviews/SF/review12493.json
+[19:56:56:978 @53 pool-2-thread-8: Parsing dataset/reviews/SF/review1515923.json
+[19:56:56:979 @53 pool-2-thread-2: Parsing dataset/reviews/SF/review522505.json
+[19:56:57:007 @53 pool-2-thread-3: Parsing dataset/reviews/SF/review18200.json
+[19:56:57:009 @53 pool-2-thread-1: Parsing dataset/reviews/SF/review876315.json
+[19:56:57:009 @53 pool-2-thread-5: Parsing dataset/reviews/SF/review693658.json
+[19:56:57:009 @53 pool-2-thread-6: Parsing dataset/reviews/SF/review287665.json
+[19:56:57:010 @53 pool-2-thread-8: Parsing dataset/reviews/SF/review6666.json
+[19:56:57:010 @53 pool-2-thread-4: Parsing dataset/reviews/SF/review7262522.json
+[19:56:57:010 @53 pool-2-thread-4: Parsing dataset/reviews/SF/review790530.json
+[19:56:57:011 @53 pool-2-thread-9: Parsing dataset/reviews/SF/review25860.json
+[19:56:57:013 @53 pool-2-thread-10: Parsing dataset/reviews/SF/review42336.json
+[19:56:57:013 @53 pool-2-thread-7: Parsing dataset/reviews/SF/review890830.json
+[19:56:57:015 @53 pool-2-thread-2: Parsing dataset/reviews/SF/review7942.json
+[19:56:57:029 @53 pool-2-thread-1: Parsing dataset/reviews/SF/review21073.json
+[19:56:57:031 @53 pool-2-thread-3: Parsing dataset/reviews/SF/review6271901.json
+[19:56:57:031 @53 pool-2-thread-9: Parsing dataset/reviews/SF/review5338.json
+[19:56:57:034 @53 pool-2-thread-6: Parsing dataset/reviews/SF/review897225.json
+[19:56:57:035 @53 pool-2-thread-5: Parsing dataset/reviews/SF/review41833.json
+[19:56:57:035 @53 pool-2-thread-4: Parsing dataset/reviews/SF/review789395.json
+[19:56:57:035 @53 pool-2-thread-7: Parsing dataset/reviews/SF/review1766605.json
+[19:56:57:040 @53 pool-2-thread-2: Parsing dataset/reviews/SF/review25271.json
+[19:56:57:042 @53 pool-2-thread-8: Parsing dataset/reviews/SF/review225819.json
+[19:56:57:042 @53 pool-2-thread-10: Parsing dataset/reviews/SF/review24620.json
+[19:56:57:060 @53 pool-2-thread-3: Parsing dataset/reviews/SF/review808403.json
+[19:56:57:061 @53 pool-2-thread-1: Parsing dataset/reviews/SF/review15254.json
+[19:56:57:065 @53 pool-2-thread-5: Parsing dataset/reviews/SF/review18962.json
+[19:56:57:065 @53 pool-2-thread-6: Parsing dataset/reviews/SF/review1588312.json
+[19:56:57:065 @53 pool-2-thread-6: Parsing dataset/reviews/SF/review8638.json
+[19:56:57:066 @53 pool-2-thread-9: Parsing dataset/reviews/SF/review6706717.json
+[19:56:57:066 @53 pool-2-thread-9: Parsing dataset/reviews/SF/review296720.json
+[19:56:57:075 @53 pool-2-thread-4: Parsing dataset/reviews/SF/review444672.json
+[19:56:57:078 @53 pool-2-thread-7: Parsing dataset/reviews/SF/review11523.json
+[19:56:57:086 @53 pool-2-thread-8: Parsing dataset/reviews/SF/review8647196.json
+[19:56:57:086 @53 pool-2-thread-10: Parsing dataset/reviews/SF/FishermansWharf/review476728.json
+[19:56:57:087 @53 pool-2-thread-2: Parsing dataset/reviews/SF/FishermansWharf/review22500.json
+[19:56:57:114 @53 pool-2-thread-3: Parsing dataset/reviews/SF/FishermansWharf/review1047.json
+[19:56:57:116 @53 pool-2-thread-6: Parsing dataset/reviews/SF/FishermansWharf/review20488.json
+[19:56:57:117 @53 pool-2-thread-1: Parsing dataset/reviews/SF/FishermansWharf/review24625.json
+[19:56:57:119 @53 pool-2-thread-5: Parsing dataset/reviews/SF/FishermansWharf/review578899.json
+[19:56:57:122 @53 pool-2-thread-9: Parsing dataset/reviews/SF/FishermansWharf/review422927.json
+[19:56:57:125 @53 pool-2-thread-4: Parsing dataset/reviews/SF/review791769.json
+[19:56:57:130 @53 pool-2-thread-7: Parsing dataset/reviews/SF/review891239.json
+[19:56:57:131 @53 pool-2-thread-10: Parsing dataset/reviews/SF/review5361249.json
+[19:56:57:132 @53 pool-2-thread-10: Parsing dataset/reviews/SF/review856888.json
+[19:56:57:134 @53 pool-2-thread-8: Parsing dataset/reviews/SF/review5875.json
+[19:56:57:137 @53 pool-2-thread-2: Parsing dataset/reviews/SF/review23406.json
+[19:56:57:163 @53 pool-2-thread-3: Parsing dataset/reviews/SF/review287112.json
+[19:56:57:167 @53 pool-2-thread-1: Parsing dataset/reviews/SF/review2406.json
+[19:56:57:167 @53 pool-2-thread-5: Parsing dataset/reviews/SF/review17616.json
+[19:56:57:168 @53 pool-2-thread-6: Parsing dataset/reviews/SF/review23774.json
+[19:56:57:168 @53 pool-2-thread-9: Parsing dataset/reviews/SF/review13950.json
+[19:56:57:170 @53 pool-2-thread-7: Parsing dataset/reviews/SF/review5984.json
+[19:56:57:174 @53 pool-2-thread-4: Parsing dataset/reviews/SF/review1146383.json
+[19:56:57:177 @53 pool-2-thread-10: Parsing dataset/reviews/SF/review14451.json
+[19:56:57:182 @53 pool-2-thread-8: Parsing dataset/reviews/SF/review27274.json
+[19:56:57:185 @53 pool-2-thread-2: Parsing dataset/reviews/SF/review438727.json
+[19:56:57:199 @53 pool-2-thread-3: Parsing dataset/reviews/SF/review283107.json
+[19:56:57:200 @53 pool-2-thread-7: Parsing dataset/reviews/SF/review19035.json
+[19:56:57:201 @53 pool-2-thread-6: Parsing dataset/reviews/SF/review5045.json
+[19:56:57:201 @53 pool-2-thread-5: Parsing dataset/reviews/SF/review26760.json
+[19:56:57:202 @53 pool-2-thread-1: Parsing dataset/reviews/SF/review16552.json
+[19:56:57:203 @53 pool-2-thread-4: Parsing dataset/reviews/SF/review22148.json
+[19:56:57:204 @53 pool-2-thread-9: Parsing dataset/reviews/SF/review9043627.json
+[19:56:57:205 @53 pool-2-thread-9: Parsing dataset/reviews/SF/review855749.json
+[19:56:57:205 @53 pool-2-thread-10: Parsing dataset/reviews/SF/review437098.json
+[19:56:57:207 @53 pool-2-thread-8: Parsing dataset/reviews/SF/review894295.json
+[19:56:57:208 @53 pool-2-thread-2: Parsing dataset/reviews/SF/review519729.json
+[19:56:57:219 @53 pool-2-thread-7: Parsing dataset/reviews/SF/review3308.json
+[19:56:57:224 @53 pool-2-thread-5: Parsing dataset/reviews/SF/review23581.json
+[19:56:57:225 @53 pool-2-thread-3: Parsing dataset/reviews/SF/review18320.json
+[19:56:57:225 @53 pool-2-thread-1: Parsing dataset/reviews/SF/review11793.json
+[19:56:57:227 @53 pool-2-thread-4: Parsing dataset/reviews/SF/review3552.json
+[19:56:57:229 @53 pool-2-thread-9: Parsing dataset/reviews/SF/review915510.json
+[19:56:57:230 @53 pool-2-thread-6: Parsing dataset/reviews/SF/review20191.json
+[19:56:57:230 @53 pool-2-thread-8: Parsing dataset/reviews/SF/UnionSq/review8737.json
+[19:56:57:231 @53 pool-2-thread-2: Parsing dataset/reviews/SF/UnionSq/review150946.json
+[19:56:57:233 @53 pool-2-thread-10: Parsing dataset/reviews/SF/UnionSq/review23395.json
+[19:56:57:241 @53 pool-2-thread-2: Parsing dataset/reviews/SF/UnionSq/review20547.json
+[19:56:57:243 @53 pool-2-thread-5: Parsing dataset/reviews/SF/UnionSq/review5883.json
+[19:56:57:243 @53 pool-2-thread-7: Parsing dataset/reviews/SF/UnionSq/review25622.json
+[19:56:57:247 @53 pool-2-thread-4: Parsing dataset/reviews/SF/UnionSq/review360.json
+[19:56:57:249 @53 pool-2-thread-3: Parsing dataset/reviews/SF/UnionSq/review24468.json
+[19:56:57:250 @53 pool-2-thread-1: Parsing dataset/reviews/SF/review40682.json
+[19:56:57:252 @53 pool-2-thread-9: Parsing dataset/reviews/SF/Hostels/review9491356.json
+[19:56:57:256 @53 pool-2-thread-8: Parsing dataset/reviews/SF/Hostels/review14772741.json
+[19:56:57:258 @53 pool-2-thread-8: Parsing dataset/reviews/SF/review2536795.json
+[19:56:57:259 @53 pool-2-thread-8: Parsing dataset/reviews/SF/review790579.json
+[19:56:57:259 @53 pool-2-thread-6: Parsing dataset/reviews/SF/review18204.json
+[19:56:57:259 @53 pool-2-thread-10: Parsing dataset/reviews/SF/review15135.json
+[19:56:57:270 @53 pool-2-thread-9: Parsing dataset/reviews/SF/review883306.json
+[19:56:57:281 @53 pool-2-thread-5: Parsing dataset/reviews/SF/review19842.json
+[19:56:57:283 @53 pool-2-thread-2: Parsing dataset/reviews/SF/review1110785.json
+[19:56:57:284 @53 pool-2-thread-7: Parsing dataset/reviews/SF/review57255.json
+[19:56:57:285 @53 pool-2-thread-4: Parsing dataset/reviews/SF/review7635.json
+[19:56:57:295 @53 pool-2-thread-3: Parsing dataset/reviews/SF/review24540.json
+[19:56:57:302 @53 pool-2-thread-1: Parsing dataset/reviews/SF/review564858.json
+[19:56:57:310 @53 pool-2-thread-10: Parsing dataset/reviews/SF/review5425.json
+[19:56:57:310 @53 pool-2-thread-6: Parsing dataset/reviews/SF/review1208461.json
+[19:56:57:312 @53 pool-2-thread-8: Parsing dataset/reviews/SF/review11771.json
+[19:56:57:322 @53 pool-2-thread-9: Parsing dataset/reviews/SF/SFOAirport/review12345.json
+[19:56:57:326 @53 pool-2-thread-2: Parsing dataset/reviews/SF/SFOAirport/review23838.json
+[19:56:57:332 @53 pool-2-thread-5: Parsing dataset/reviews/SF/SFOAirport/review40443.json
+[19:56:57:336 @53 pool-2-thread-4: Parsing dataset/reviews/SF/SFOAirport/review4705.json
+[19:56:57:337 @53 pool-2-thread-7: Parsing dataset/reviews/SF/SFOAirport/review524164.json
+[19:56:57:348 @53 pool-2-thread-3: Parsing dataset/reviews/SF/SFOAirport/review599536.json
+[19:56:57:353 @53 pool-2-thread-1: Parsing dataset/reviews/SF/SFOAirport/review1139289.json
+[19:56:57:357 @53 pool-2-thread-6: Parsing dataset/reviews/SF/SFOAirport/review4044.json
+[19:56:57:360 @53 pool-2-thread-8: Parsing dataset/reviews/SF/SFOAirport/review2981.json
+[19:56:57:361 @53 pool-2-thread-10: Parsing dataset/reviews/SF/SFOAirport/review26500.json
+[19:56:57:368 @53 pool-2-thread-9: Parsing dataset/reviews/SF/SFOAirport/review7655.json
+[19:56:57:370 @53 pool-2-thread-2: Parsing dataset/reviews/SF/SFOAirport/review16955.json
+[19:56:57:371 @53 pool-2-thread-5: Parsing dataset/reviews/SF/SFOAirport/review487.json
+[19:56:57:373 @53 pool-2-thread-7: Parsing dataset/reviews/SF/SFOAirport/review9329.json
+[19:56:57:377 @53 pool-2-thread-4: Parsing dataset/reviews/SF/SFOAirport/review28502.json
+[19:56:57:386 @53 pool-2-thread-3: Parsing dataset/reviews/SF/review455591.json
+[19:56:57:386 @53 pool-2-thread-1: Parsing dataset/reviews/SF/review14553.json
+[19:56:57:390 @53 pool-2-thread-10: Parsing dataset/reviews/SF/review118232.json
+[19:56:57:390 @53 pool-2-thread-6: Parsing dataset/reviews/SF/review28200.json
+[19:56:57:391 @53 pool-2-thread-8: Parsing dataset/reviews/SF/review5901.json
+[19:56:57:396 @53 pool-2-thread-2: Parsing dataset/reviews/SF/review15769.json
+[19:56:57:396 @53 pool-2-thread-9: Parsing dataset/reviews/SF/review897333.json
+[19:56:57:399 @53 pool-2-thread-5: Parsing dataset/reviews/SanCarlos/review200649.json
+[19:56:57:400 @53 pool-2-thread-7: Parsing dataset/reviews/SanCarlos/review14781.json

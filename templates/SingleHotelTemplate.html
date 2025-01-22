@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>$name</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+</head>
+
+<body dataHotelId="$hotelId" loginUser="$loginUser" expediaLink="$expedia">
+<div class="card-body py-5 px-md-5">
+    <div id="hotelDiv">
+        <H1>$name</H1>
+        <h2>Hotel ID: $hotelId </h2>
+        <h2 id="avgRating"></h2>
+        <h3>Address: $address</h3>
+    </div>
+
+    <div class="d-flex justify-content-between">
+        <div class="grid gap-3">
+            <button id="addRevBtn" class="addRevBtn btn btn-primary" data-toggle="modal" data-target="#addReviewModal">Add Review</button>
+            <a href="/login"><button type="submit" class="btn btn-info" id="goHome">Go to Home</button></a>
+            <button type="button" class="btn btn-link" id="starBTN"></button>
+        </div>
+        <div class="d-flex justify-content-end grid gap-3">
+            <a id="expedia" class="icon-link icon-link-hover" style="--bs-link-hover-color-rgb: 25, 135, 84;" href="$expedia">
+                Expedia
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-luggage" viewBox="0 0 16 16">
+                    <path d="M2.5 1a.5.5 0 0 0-.5.5V5h-.5A1.5 1.5 0 0 0 0 6.5v7a1.5 1.5 0 0 0 1 1.415v.335a.75.75 0 0 0 1.5 0V15H4v-1H1.5a.5.5 0 0 1-.5-.5v-7a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 .5.5V7h1v-.5A1.5 1.5 0 0 0 6.5 5H6V1.5a.5.5 0 0 0-.5-.5zM5 5H3V2h2z"/>
+                    <path d="M3 7.5a.5.5 0 0 0-1 0v5a.5.5 0 0 0 1 0zM11 6a1.5 1.5 0 0 1 1.5 1.5V8h2A1.5 1.5 0 0 1 16 9.5v5a1.5 1.5 0 0 1-1.5 1.5h-8A1.5 1.5 0 0 1 5 14.5v-5A1.5 1.5 0 0 1 6.5 8h2v-.5A1.5 1.5 0 0 1 10 6zM9.5 7.5V8h2v-.5A.5.5 0 0 0 11 7h-1a.5.5 0 0 0-.5.5M6 9.5v5a.5.5 0 0 0 .5.5H7V9h-.5a.5.5 0 0 0-.5.5m7 5.5V9H8v6zm1.5 0a.5.5 0 0 0 .5-.5v-5a.5.5 0 0 0-.5-.5H14v6z"/>
+                </svg>
+            </a>
+            <form method="post" action="/logout" >
+                <input type="submit" value="Logout" class="btn btn-dark"/>
+            </form><br>
+        </div>
+    </div>
+
+
+    <div id="addReviewDiv"></div>
+
+    <div id="reviewDiv" class="border my-3" style="max-height: 600px; overflow-y: auto;"></div>
+    <div id="reviewBtn"></div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="/javascript/reviewSection.js"></script>
+</body>
+</html>
